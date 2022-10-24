@@ -9,4 +9,5 @@
   Lab:
     [Agile plan and portfolio management with Azure Boards](https://learn.microsoft.com/en-us/training/modules/plan-agile-github-projects-azure-boards/9-agile-plan-portfolio-management-azure-boards)
 - [Introduction to source control](https://learn.microsoft.com/en-us/training/modules/introduction-to-source-control/)
+- [Describe types of source control systems](https://learn.microsoft.com/en-us/training/modules/describe-types-of-source-control-systems/)
 - [Structure your Git Repo](https://learn.microsoft.com/en-us/training/modules/structure-your-git-repo/)
