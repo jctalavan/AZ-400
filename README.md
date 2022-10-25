@@ -11,3 +11,4 @@
 - [Introduction to source control](https://learn.microsoft.com/en-us/training/modules/introduction-to-source-control/)
 - [Describe types of source control systems](https://learn.microsoft.com/en-us/training/modules/describe-types-of-source-control-systems/)
 - [Structure your Git Repo](https://learn.microsoft.com/en-us/training/modules/structure-your-git-repo/)
+- [Collaborate with pull requests in Azure Repos](https://learn.microsoft.com/en-us/training/modules/collaborate-pull-requests-azure-repos/)
