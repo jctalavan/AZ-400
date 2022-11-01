@@ -26,7 +26,31 @@
 
 - [Structure your Git Repo](https://learn.microsoft.com/en-us/training/modules/structure-your-git-repo/)
 
+- [Manage Git branches and workflows](https://learn.microsoft.com/en-us/training/modules/manage-git-branches-workflows)
+
+  > Lab 03:
+  > [Version control with Git in Azure Repos](https://learn.microsoft.com/en-us/training/modules/manage-git-branches-workflows/7-version-control-git-azure-repos)
+
 - [Collaborate with pull requests in Azure Repos](https://learn.microsoft.com/en-us/training/modules/collaborate-pull-requests-azure-repos/)
+
+- [Identify technical debt](https://learn.microsoft.com/en-us/training/modules/identify-technical-debt)
+
+- [Explore Git hooks](https://learn.microsoft.com/en-us/training/modules/explore-git-hooks)
+
+- [Plan foster inner source](https://learn.microsoft.com/en-us/training/modules/plan-fostering-inner-source)
+
+- [Manage git repositories](https://learn.microsoft.com/en-us/training/modules/manage-git-repositories)
+
+- [Explore Azure Pipelines](https://learn.microsoft.com/en-us/training/modules/explore-azure-pipelines)
+
+- [Manage Azure Pipelines agents and pools](https://learn.microsoft.com/en-us/training/modules/manage-azure-pipeline-agents-pools/)
+
+> Lab 04:
+  > [Configure agent pools and understanding pipeline styles](https://learn.microsoft.com/en-us/training/modules/manage-azure-pipeline-agents-pools/11-configure-agent-pools-understand-pipeline-styles)
+
+- [Describe pipelines and concurrency](https://learn.microsoft.com/en-us/training/modules/describe-pipelines-concurrency)
+
+
 
 
 
