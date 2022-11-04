@@ -62,6 +62,9 @@
   > Lab 07:
   > [Implement GitHub Actions by using DevOps Starter](https://learn.microsoft.com/en-us/training/modules/learn-continuous-integration-github-actions/10-implement-github-actions-by-using-devops-starter)
 
+- [24.]
+
+- [25.Introduction to continuous delivery](https://learn.microsoft.com/en-us/training/modules/introduction-to-continuous-delivery)
 
 ***
 
