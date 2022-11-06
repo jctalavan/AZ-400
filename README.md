@@ -62,7 +62,9 @@
   > Lab 07:  
   > - [Implement GitHub Actions by using DevOps Starter](https://learn.microsoft.com/en-us/training/modules/learn-continuous-integration-github-actions/10-implement-github-actions-by-using-devops-starter)
 
-- [24.]
+- [24. Design a container build strategy](https://learn.microsoft.com/en-us/training/modules/design-container-build-strategy/)
+  > Lab:
+  > - [Deploy Docker containers to Azure App Service web apps](https://learn.microsoft.com/en-us/training/modules/design-container-build-strategy/8-deploy-docker-containers-to-azure-app-service-web-apps)
 
 - [25.Introduction to continuous delivery](https://learn.microsoft.com/en-us/training/modules/introduction-to-continuous-delivery)
 
@@ -82,11 +84,28 @@
   > Lab:  
   > - [Control deployments using releases gates](https://learn.microsoft.com/en-us/training/modules/explore-release-strategy-recommendations/8-control-deployments-using-release-gates)
 
-- [28.]
+- [28. Provision and test environments](https://learn.microsoft.com/en-us/training/modules/configure-provision-environments)  
+  > Exercises: 
+  > - [Set up service connections](https://learn.microsoft.com/en-us/training/modules/configure-provision-environments/3-exercise-set-up-service-connections)
+  >
+  > Lab:
+  > - [Set up and run functional tests](https://learn.microsoft.com/en-us/training/modules/configure-provision-environments/8-set-up-run-functional-tests) 
+  > 
+  > Interesting...
+  > - [Shift left to make testing fast and reliable.](https://learn.microsoft.com/en-us/devops/develop/shift-left-make-testing-fast-reliable)  
+  > - Azure Load Testing
 
-- [29.]
+- [29. Manage and modularize tasks and templates](https://learn.microsoft.com/en-us/training/modules/manage-modularize-tasks-templates) 
+  > Exercise:
+  > - [Create and manage task groups](https://learn.microsoft.com/en-us/training/modules/manage-modularize-tasks-templates/3-exercise-create-manage-task-groups) 
+  > - [Create and manage variable groups](https://learn.microsoft.com/en-us/training/modules/manage-modularize-tasks-templates/6-exercise-create-manage-variable-groups)
 
-- [30.]
+- [30. Automate inspection of health](https://learn.microsoft.com/en-us/training/modules/automate-inspection-health)
+  > Exercise: 
+  > - [Set up service hooks to monitor the pipeline](https://learn.microsoft.com/en-us/training/modules/automate-inspection-health/5-exercise-set-up-service-hooks-to-monitor-pipeline)
+  > 
+  > Lab:
+  > - [Create a release dashboard](https://learn.microsoft.com/en-us/training/modules/automate-inspection-health/12-create-release-dashboard)
 
 - [31. Introduction to Secure DevOps](https://learn.microsoft.com/en-us/training/modules/introduction-to-secure-devops)
   > Algunas herramientas útiles en el aspecto de la seguridad:
